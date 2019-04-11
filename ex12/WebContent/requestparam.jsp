@@ -21,7 +21,6 @@
    pw = request.getParameter("pw");
    major = request.getParameter("major");
    protocol = request.getParameter("protocol");
-   
    hobbys = request.getParameterValues("hobby");
 %>
 
